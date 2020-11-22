@@ -31,7 +31,7 @@
     <div class="form-group">
         <button type="submit" id="submit" class="btn btn-primary btn-block">Log In </button>
     </div> <!-- form-group// -->      
-    <p class="text-center">Are you new? <a href="{{route('login')}}">Register Here</a> </p>                                                                 
+    <p class="text-center">Are you new? <a href="{{route('register')}}">Register Here</a> </p>                                                                 
 </form>
 </article>
 </div> <!-- card.// -->
